@@ -6,3 +6,4 @@ info
 libltdl7
 libev-perl
 pulseaudio-utils
+python-gobject
