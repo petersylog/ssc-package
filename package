@@ -10,3 +10,4 @@ python-gobject
 libpango-1.0-0
 libgbm1
 nfs-common
+libfreetype6
