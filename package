@@ -4,3 +4,4 @@ libparams-util-perl
 xserver-xorg-input-evdev
 host
 avahi-daemon
+i3-wm
