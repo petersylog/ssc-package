@@ -11,3 +11,4 @@ libyaml-0-2
 libcolorhug2
 libnotify4
 libpaper1
+debconf-i18n
