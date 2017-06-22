@@ -5,3 +5,4 @@ xserver-xorg-input-evdev
 host
 avahi-daemon
 i3-wm
+dns-root-data
